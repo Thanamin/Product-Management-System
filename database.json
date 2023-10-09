@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "55-Inch TV",
+    "category": "Electronics",
+    "price": 800,
+    "stock": 8
+  },
+  {
+    "id": 2,
+    "name": "Modern Style Sofa",
+    "category": "Furniture",
+    "price": 450,
+    "stock": 12
+  },
+  {
+    "id": 3,
+    "name": "Golf Club Set",
+    "category": "Sports",
+    "price": 250,
+    "stock": 18
+  },
+  {
+    "id": 4,
+    "name": "Clothing Steamer",
+    "category": "Appliances",
+    "price": 70,
+    "stock": 25
+  },
+  {
+    "id": 5,
+    "name": "Wristwatch",
+    "category": "Accessories",
+    "price": 120,
+    "stock": 22
+  },
+  {
+    "id": 6,
+    "name": "Home Robot Assistant",
+    "category": "Home Automation",
+    "price": 600,
+    "stock": 7
+  },
+  {
+    "id": 7,
+    "name": "Sporty T-Shirt",
+    "category": "Clothing",
+    "price": 35,
+    "stock": 40
+  },
+  {
+    "id": 8,
+    "name": "Stage Speakers",
+    "category": "Music",
+    "price": 200,
+    "stock": 14
+  },
+  {
+    "id": 9,
+    "name": "Wireless Speaker",
+    "category": "Electronics",
+    "price": 120,
+    "stock": 9
+  },
+  {
+    "id": 10,
+    "name": "Ultra-Clean Bathroom",
+    "category": "Home Improvement",
+    "price": 300,
+    "stock": 5
+  }
+]
